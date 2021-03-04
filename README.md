@@ -13,6 +13,7 @@ I have always been fascinated by computers and I stared programming after high s
 <a href="https://www.instagram.com/justhsivam_/?hl=en">
   <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</br>
 
 ### I use <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/windows8/windows8-original.svg" /> <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/ubuntu/ubuntu-plain.svg" />
 
