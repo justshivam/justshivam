@@ -1,7 +1,7 @@
 # Hi I'm Shivam 👋 
 ### I'm a CSE sophomore at [SRM IST](https://srmist.edu.in/)
 
-I have always been fascinated by computers and I stared programming after high school. I love learing about the core fundamentals of computers and how they work.
+I have always been fascinated by computers and I started programming after high school. I love learing about the core fundamentals of computers and how they work.
 
  
 <a href="https://www.linkedin.com/in/justshivam/">
