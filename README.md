@@ -46,5 +46,8 @@ I have always been fascinated by computers and I started programming after high 
 </div>
 
 <div align="center">
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/justshivam/count.svg" />
+</p>
 </div>
