@@ -15,7 +15,7 @@ I have always been fascinated by computers and I started programming after high 
 </a>
 </br>
 
-### I use <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/windows8/windows8-original.svg" /> <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+### I use <img width="20" height="20" alt="Git" width="26px" src="https://raw.githubusercontent.com/justshivam/justshivam/main/icons/windows11.svg" /> <img width="20" height="20" alt="Git" width="26px" src="https://raw.githubusercontent.com/justshivam/justshivam/main/icons/manjaro.svg" />
 
 
 ### Languages and Tools:  
