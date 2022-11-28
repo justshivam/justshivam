@@ -1,5 +1,5 @@
 # Hi I'm Shivam 👋 
-### I'm a CSE junior at [SRM IST](https://srmist.edu.in/)
+### I'm a CSE Senior at [SRM IST](https://srmist.edu.in/)
 
 I have always been fascinated by computers and I started programming after high school. I love learing about the core fundamentals of computers and how they work.
 
