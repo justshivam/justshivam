@@ -1,7 +1,7 @@
 # Hi I'm Shivam 👋 
-### I'm a CSE Senior at [SRM IST](https://srmist.edu.in/)
+### I'm a Software Engineer I at J.P. Morgan Chase & Co.
 
-I have always been fascinated by computers and I started programming after high school. I love learing about the core fundamentals of computers and how they work.
+I have always been fascinated by computers and started programming after high school. I love learning about the core fundamentals of computers and how they work.
 
  
 <a href="https://www.linkedin.com/in/justshivam/">
@@ -37,9 +37,6 @@ I have always been fascinated by computers and I started programming after high 
 
 <a href="https://github.com/justshivam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justshivam&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/justshivam">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=justshivam&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivam's github stats"/>
 </a>
 
 <div>
